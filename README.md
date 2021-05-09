@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on Shenzhen, China.
+- 🌱 I’m currently learning `Golang`.
+- 💬 e-mail lanyueos@qq.com
+- 😄 Web: [lanyueos.com](https://lanyueos.com)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengdu&show_icons=true&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengdu&layout=compact)
