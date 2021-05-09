@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Web: [lanyueos.com](https://lanyueos.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengdu&show_icons=true&theme=prussian)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengdu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengdu&layout=compact&theme=prussian)
