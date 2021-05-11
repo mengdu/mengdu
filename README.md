@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengdu&show_icons=true&theme=prussian)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengdu&layout=compact&theme=prussian)
+
+![visits](https://stats-server.vercel.app/api/views?id=github&key=visits&fill=2ac772&title=Visits)
