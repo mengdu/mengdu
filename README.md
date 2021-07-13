@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Shenzhen, China.
 - 🌱 I’m currently learning `Golang`.
 - 💬 e-mail lanyueos@qq.com
-- 😄 Web: [lanyueos.com](https://lanyueos.com)
+- 😄 Web: [lanyueos.com](https://www.lanyueos.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengdu&show_icons=true&theme=prussian)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengdu&layout=compact&theme=prussian)
